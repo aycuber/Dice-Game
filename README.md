@@ -1,2 +1,2 @@
 # Dice-Game
-Dice game with strategy
+Fun dice game with strategy
